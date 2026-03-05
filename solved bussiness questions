@@ -1,1 +1,32 @@
+## Key Business Questions & Insights
 
+### 1️. Which products drive the most revenue?
+A small group of products generates the majority of total revenue. These products are the company’s key revenue drivers.
+
+
+### 2️. Which marketing channel performs best?
+The direct channel brings the highest number of orders, making it the most effective acquisition channel.
+
+
+### 3️. Is the business seasonal?
+Yes. Orders increase significantly during certain weeks, indicating clear seasonal demand patterns.
+
+
+### 4️. Which year performed the best?
+Among 2019–2021, one year clearly generated the highest revenue, reflecting business growth during that period.
+
+
+### 5️. Is order fulfilment keeping up with demand?
+Shipment volume mostly follows order trends. However, any gaps may indicate operational inefficiencies.
+
+
+### 6. Are sales factors related to each other?
+Some sales-related variables move together, while others operate independently.
+
+
+### 7️. How were data quality issues handled?
+Missing values were filled appropriately, and duplicate records were removed to ensure accurate analysis.
+
+
+### 8️. What time period does this analysis cover?
+The dataset covers three years (2019–2021), allowing yearly and seasonal trend evaluation.
